@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lokasi</string>
+    <string name="header">Kategori</string>
+    <string name="card1">Sewa Mobil</string>
+    <string name="card2">Restoran</string>
+    <string name="card3">Rumah Sakit</string>
+    <string name="card4">Belanja</string>
+    <string name="card1Content">Expand All</string>
+    <string name="title_activity_maps">Lokasi</string>
+    <string name="appwidget_text">Tempat</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="app_widget_description">Ini adalah appwidget</string>
+    <string name="login_description">Tolong masukan Username dan Password anda</string>
+    <string name="login_title">Selamat datang di Location Reference!</string>
+    <string name="show_author">Ingin menampilkan pembuat?</string>
+    <string name="show">Tampilkan</string>
+</resources>
